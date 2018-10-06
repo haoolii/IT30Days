@@ -1,3 +1,4 @@
+## TypeScript - Gof 23 Design Pattern (05)：Interface 2/2
 ### 前言
 今天是輕鬆星期五，就繼續完成Interface吧，今天工作上遇到了一些CSS弔詭的問題，晚點再來研究研究。
 *註記，此篇日後得翻修*

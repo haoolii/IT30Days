@@ -1,3 +1,4 @@
+## TypeScript - Gof 23 Design Pattern(03) ：物件導向SOLID 耦合內聚
 ### 前言
 今天好疲累一定是因為星期三，暫時先發概念的物件導向，明天開始再來看TypeScript。
 

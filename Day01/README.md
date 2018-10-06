@@ -1,4 +1,4 @@
-TypeScript 學習之路並實現 GOF 23 Design Pattern (1)：關於本文
+## TypeScript 學習之路並實現 GOF 23 Design Pattern (1)：關於本文
 ===
 
 ## 序

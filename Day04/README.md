@@ -1,3 +1,4 @@
+## TypeScript - Gof 23 Design Pattern (04)：Interface 1/2
 ### 前言
 今天本來要先來看一下Var、Let的差異，但下班有點耽誤怕時間不夠。今天介紹瀏覽一下 Interfaces吧！
 

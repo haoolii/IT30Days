@@ -1,4 +1,4 @@
-TypeScript - Design Pattern(02) ：TypesScript基礎介紹
+## TypeScript - Design Pattern(02) ：TypesScript基礎介紹
 ===
 
 ### 前言
