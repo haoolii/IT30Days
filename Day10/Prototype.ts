@@ -4,10 +4,10 @@ export class Prototype{
 
     }
     public saySomething():void{
-        console.log('hello! my memory location: '+this);
+        console.log('hello!');
         
     }
-    
+
     public clone():Prototype{
         let cloned = Object.create(Prototype.prototype || null);
         return cloned;
