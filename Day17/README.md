@@ -1,4 +1,4 @@
-# TypeScript - Gof 23 Design Pattern (16)：Strategy Pattern
+# TypeScript - Gof 23 Design Pattern (17)：Strategy Pattern
 ### 前言
 今天是Strategy Pattern策略模式，有另一Pattern跟這個很像，之後就會遇到了呢。
 

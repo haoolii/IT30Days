@@ -1,4 +1,4 @@
-# TypeScript - Gof 23 Design Pattern (17)：Decorator Pattern
+# TypeScript - Gof 23 Design Pattern (18)：Decorator Pattern
 ### 前言
 今天收到兵單了，也就是我11月初就會去陰間待四個月，希望時間過很快，但時間總是過去才覺得很快，當下一定是超級漫長。今天來Decorator Pattern吧！
 
