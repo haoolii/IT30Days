@@ -13,7 +13,9 @@
 
 ## 目錄
 [Day1:TypeScript 學習之路並實現 GOF 23 Design Pattern (1)：關於本文](./Day01/)
+
 [Day2:TypeScript - Design Pattern(02) ：TypesScript基礎介紹](./Day02/)
+
 [Day3:TypeScript - Gof 23 Design Pattern(03) ：物件導向SOLID 耦合內聚](./Day03/)
 [Day4:TypeScript - Gof 23 Design Pattern (04)：Interface 1/2](./Day04/)
 [Day5:TypeScript - Gof 23 Design Pattern (05)：Interface 2/2](./Day05/)
