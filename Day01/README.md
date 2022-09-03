@@ -32,4 +32,4 @@
 ## 參考資料
 [typescriptlang.org](https://www.typescriptlang.org/)
 
-[TypeScript 特色與歷史簡介](https://oomusou.io/typescript/intro/)
+[TypeScript 特色與歷史簡介](https://old-oomusou.goodjack.tw/typescript/intro/)
