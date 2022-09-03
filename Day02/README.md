@@ -176,7 +176,7 @@ let strLength: number = (someValue as string).length;
 ### Let 
 官方文件聲明Let使用的時機會多大於var，原因是因為var無scope概念，也關乎於生命週期的原因，這偏不多做說明。
 
-[深入探討 TypeScript 之變數宣告與建立](https://oomusou.io/typescript/variable/)
+[深入探討 TypeScript 之變數宣告與建立](https://old-oomusou.goodjack.tw/typescript/variable/)
 [JavaScript variables lifecycle: why let is not hoisted](https://dmitripavlutin.com/variables-lifecycle-and-why-let-is-not-hoisted/)
 
 ---

@@ -156,6 +156,6 @@ class Location {
 
 
 #### 參考資料
-[深入探討 TypeScript 之 Interface](https://oomusou.io/typescript/interface/)
+[深入探討 TypeScript 之 Interface](https://old-oomusou.goodjack.tw/typescript/interface/)
 [TypeScript HandBook](https://www.typescriptlang.org/docs/handbook/interfaces.html)
 

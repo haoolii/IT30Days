@@ -108,5 +108,5 @@ const numLivesForCat = 9;
 ### 參考資料
 
 [mozilla.org](https://developer.mozilla.org/zh-TW/docs/Glossary/Hoisting)
-[深入探討 TypeScript 之變數宣告與建立](https://oomusou.io/typescript/variable/)
+[深入探討 TypeScript 之變數宣告與建立](https://old-oomusou.goodjack.tw/typescript/variable/)
 [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/variable-declarations.html)
